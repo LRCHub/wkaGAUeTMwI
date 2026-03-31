@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Burn",
+  "base_artist": "Destine",
+  "createdAt": "2026-03-31T05:55:54.587963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Burn Me Down",
+      "artist": "Marty Stuart",
+      "has_synced": true,
+      "path": "select/01_Burn_Me_Down_Marty_Stuart.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Burn Me Down",
+      "artist": "Marty Stuart",
+      "has_synced": true,
+      "path": "select/02_Burn_Me_Down_Marty_Stuart.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Burn One Down - 1992 Version",
+      "artist": "Clint Black",
+      "has_synced": false,
+      "path": "select/03_Burn_One_Down_-_1992_Version_Clint_Black.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Burn One Down (1992 Version)",
+      "artist": "Clint Black",
+      "has_synced": true,
+      "path": "select/04_Burn_One_Down_(1992_Version)_Clint_Black.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Burn Out",
+      "artist": "Midland",
+      "has_synced": true,
+      "path": "select/05_Burn_Out_Midland.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Burn The Whole World Down",
+      "artist": "Kip Moore",
+      "has_synced": true,
+      "path": "select/06_Burn_The_Whole_World_Down_Kip_Moore.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Burn, Burn, Burn",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/07_Burn,_Burn,_Burn_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crash and Burn",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/08_Crash_and_Burn_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Slow Burn (Yours Truly: 2018)",
+      "artist": "Danielle Bradbery",
+      "has_synced": true,
+      "path": "select/09_Slow_Burn_(Yours_Truly__2018)_Danielle_Bradbery.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We'll Burn That Bridge",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/10_We'll_Burn_That_Bridge_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ganja Burn",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/11_Ganja_Burn_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Slow Burn",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/12_Slow_Burn_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Slow Burn - Radio Edit",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/13_Slow_Burn_-_Radio_Edit_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Slow Burn (radio edit)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/14_Slow_Burn_(radio_edit)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Burn the Witch",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/15_Burn_the_Witch_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Medicine Burn",
+      "artist": "Yves Tumor",
+      "has_synced": true,
+      "path": "select/16_Medicine_Burn_Yves_Tumor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Burn",
+      "artist": "Destine",
+      "has_synced": false,
+      "path": "select/pl_01_Burn_Destine.txt"
+    }
+  ]
+}
